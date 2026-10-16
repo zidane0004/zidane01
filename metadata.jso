@@ -1,0 +1,11 @@
+{
+  "name": "Flying Tesla Roadster",
+  "symbol": "FTR",
+  "description": "Flying Tesla Roadster (FTR)",
+  "image": "https://raw.githubusercontent.com/zidane0004/zidane01/main/FTR.png",
+  "external_url": "https://otcdesks.cash/",
+  "extensions": {
+    "website": "https://otcdesks.cash/",
+    "twitter": "https://x.com/FTRonPUMP"
+  }
+}
